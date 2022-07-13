@@ -6,4 +6,6 @@ Calculated using the rarity.tools/looprare.io algorithm.
 ## Mismints
 The original metadata had misminted information for the "shape grey" trait value, which was originally 'shapet grey' due to a mistake. The creator asked me to fix this trait value to its intended value when calculating rarity.
 
+
+## Credits
 Thanks to Monty for the scraping of metadata!
